@@ -1,4 +1,5 @@
-Digimon Card Search App
+# Digimon Card Search App
+
 This Streamlit web application allows users to search for Digimon cards based on their name and color. It fetches card details including images from the Digimon Card Database API and displays them in a user-friendly interface.
 
 Features
